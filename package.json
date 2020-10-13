@@ -1,0 +1,24 @@
+{
+  "name": "ReadMeGenerate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/margaritag17/ReadMeGenerate.git"
+  },
+  "author": "Margarita Gurrola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/margaritag17/ReadMeGenerate/issues"
+  },
+  "homepage": "https://github.com/margaritag17/ReadMeGenerate#readme"
+}
